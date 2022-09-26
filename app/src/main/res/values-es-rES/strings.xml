@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora de números primos</string>
+    <string name="calculadora_de_n_meros_primos">CALCULADORA DE NÚMEROS PRIMOS</string>
+    <string name="introduce_qu_n_mero_primo_quieres_calcular_por_ejemplo_si_deseas_saber_el_quinto_n_mero_primo_pon_el_5_y_dale_calcular_te_dir_que_el_quinto_es_el_11">Introduce qué número primo quieres calcular. Por ejemplo, si deseas saber el quinto número primo, pon el 5 y dale calcular. Te dirá que el quinto es el 11.</string>
+    <string name="posicion">Posicion</string>
+    <string name="calcular">Calcular</string>
+</resources>

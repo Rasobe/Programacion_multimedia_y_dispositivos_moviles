@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Calculadora_numeros_primos</string>
+    <string name="app_name">" Prime number calculator"</string>
+    <string name="calculadora_de_n_meros_primos">PRIME NUMBER CALCULATOR</string>
+    <string name="introduce_qu_n_mero_primo_quieres_calcular_por_ejemplo_si_deseas_saber_el_quinto_n_mero_primo_pon_el_5_y_dale_calcular_te_dir_que_el_quinto_es_el_11">Enter which prime number you want to calculate. For example, if you want to know the fifth prime number, put the 5 and give him calculate. It will tell you that the fifth is 11.</string>
+    <string name="posicion">Position</string>
+    <string name="calcular">Calculate</string>
 </resources>
